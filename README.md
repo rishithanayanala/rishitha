@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @rishithanayanala
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning frontend web developing
+- 👀 I’m interested in data science 
+- 🌱 I’m currently learning coding 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me rishithanayanala@gmail.com
 - 😄 Pronouns: rishitha
 - ⚡ Fun fact: ...
 
