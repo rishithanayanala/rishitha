@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @rishithanayanala
 - 👀 I’m interested in data science 
 - 🌱 I’m currently learning coding 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me rishithanayanala@gmail.com
-- 😄 Pronouns: rishitha
-- ⚡ Fun fact: ...
+
+
 
 <!---
 rishithanayanala/rishithanayanala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
